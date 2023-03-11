@@ -20,5 +20,3 @@ switch (args[0]) {
     default:
         console.log('does not support');
 }
-
-//aaa
